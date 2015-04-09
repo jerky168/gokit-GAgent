@@ -22,7 +22,7 @@
 
 /*zhou add new file. some func stub*/
 
-#define GAGENT_CONFIG_FILE      "/opt/gagent_config_tmp.config"
+#define GAGENT_CONFIG_FILE      "gagent_config_tmp.config"
 // ∂¡»°gagent≈‰÷√–≈œ¢
 int X86_GetConfigData(GAgent_CONFIG_S *pConfig)
 {
